@@ -13,3 +13,8 @@ Join us in this endeavor by forking the repository, making your contributions, a
 Please note that the Balochi Proverbs Collection GitHub repository is a collaborative project, and all contributions are subject to review and moderation to ensure the quality and accuracy of the collection.
 
 Let's celebrate the beauty of Balochi language and wisdom, one proverb at a time, as we work towards creating an immersive and accessible Balochi Proverbs app.
+
+### P.S
+It is important to note that while the repository aims to promote the richness of Balochi culture and language, the inclusion of proverbs from copyrighted books does not imply permission for reproduction or redistribution without the explicit consent of the respective publishers.
+
+Please be aware that the proverbs shared in this repository are for educational and informational purposes only. It is advisable to consult the original published works for a comprehensive understanding of the proverbs, their cultural context, and proper attribution.
